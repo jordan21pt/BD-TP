@@ -1,1 +1,1 @@
-Trabalho prático de Sistemas Operativos no ano letivo 2021/2022.
+Trabalho prático de Bases de dados no ano letivo 2022/2023.
